@@ -6,5 +6,5 @@ Usage: python wordsearch.py --input <inputfile> --wordlist <wordlistfile>
 ```
  
 Pre-requisites:
-python 2.7+
-Wordlist format: one line/search string, case insensitive, no trailing carriage return at end of file
++ python 2.7+
++ Wordlist format: one line/search string, case insensitive, no trailing carriage return at end of file
