@@ -1,0 +1,7 @@
+password
+reset
+link
+click
+http
+code
+555-1111
